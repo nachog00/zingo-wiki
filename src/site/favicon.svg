@@ -1,24 +1,28 @@
-<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <rect x="37.0753" y="36.0532" width="26.8836" height="18.1139" fill="#FFFFFF"/>
-    <polygon fill="#EA5A47" stroke="#EA5A47" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="50.2353,23.2 38.1,36 63.5,36"/>
-    <path fill="#EA5A47" d="M47.3,26l-6.4,6.0595v-8.5733c0-0.9313,0.7549-1.4162,1.6862-1.4162h3.0276 c0.9313,0,1.6862,0.4849,1.6862,1.4162C47.3,23.4862,47.3,26,47.3,26z"/>
-    <rect x="43" y="42" width="6" height="12" fill="#A57939"/>
-    <rect x="54" y="42" width="6" height="5" fill="#92D3F5"/>
-    <path fill="#B1CC33" d="M41.0059,28.3393c0-3.3123-3.4447-6.0025-7.6937-6.0025c-0.3549,0.0029-0.7095,0.025-1.0622,0.0662 c-1.7995-3.4553-5.7065-5.8554-10.2499-5.8554c-6.2478,0-11.3122,4.5286-11.3122,10.1144c0.0012,0.3692,0.0247,0.738,0.0704,1.1043 C7.9656,28.6665,6,30.8102,6,33.3136c0,3.3123,3.4446,6.0025,7.6936,6.0025c1.6151,0.0139,3.2056-0.4022,4.6137-1.207 c1.8177,1.4766,4.7264,2.4385,8.0154,2.4385c5.5105,0,9.9776-2.6875,9.9776-6.0025c-0.0009-0.2191-0.0214-0.4377-0.0612-0.6531 C39.0357,32.9904,41.0059,30.8453,41.0059,28.3393z"/>
-  </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="46,27 50.2353,23 64,35.0976 64,54 38,54 38,41.5482"/>
-    <rect x="43" y="42" width="6" height="12" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="54" y="42" width="6" height="5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="43.5,23 46.5,23 46.5,26"/>
-    <path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2" d="M31.245,39.3396"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="22.5,54 22.5,46.8269 17.5,42"/>
-    <line x1="23.0408" x2="25.885" y1="46.7265" y2="43.7657" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M41.0059,28.3393 c0-3.3123-3.4447-6.0025-7.6937-6.0025c-0.3549,0.0029-0.7095,0.025-1.0622,0.0662c-1.7995-3.4553-5.7065-5.8554-10.2499-5.8554 c-6.2478,0-11.3122,4.5286-11.3122,10.1144c0.0012,0.3692,0.0247,0.738,0.0704,1.1043C7.9656,28.6665,6,30.8102,6,33.3136 c0,3.3123,3.4446,6.0025,7.6936,6.0025c1.6151,0.0139,3.2056-0.4022,4.6137-1.207c1.8177,1.4766,4.7264,2.4385,8.0154,2.4385 c5.5105,0,9.9776-2.6875,9.9776-6.0025c-0.0009-0.2191-0.0214-0.4377-0.0612-0.6531 C39.0357,32.9904,41.0059,30.8453,41.0059,28.3393z"/>
-    <line x1="63.5" x2="42.5" y1="36" y2="36" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-  </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="240.000000pt" height="240.000000pt" viewBox="0 0 240.000000 240.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,240.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M0 1200 l0 -1200 1200 0 1200 0 0 1200 0 1200 -1200 0 -1200 0 0
+-1200z m1956 966 c28 -28 34 -42 34 -76 0 -34 -6 -48 -34 -76 -39 -39 -62 -43
+-72 -12 -6 20 -7 21 -17 2 -5 -10 -11 -20 -13 -22 -1 -2 -13 2 -25 9 -40 21
+-58 51 -59 98 0 36 6 49 34 77 28 28 42 34 76 34 34 0 48 -6 76 -34z m-38
+-339 c45 -46 50 -57 27 -57 -13 0 -15 -23 -15 -150 l0 -150 -60 0 -60 0 0 149
+c0 134 -2 150 -17 153 -14 3 -9 12 26 51 24 26 47 47 50 47 4 0 26 -19 49 -43z
+m-80 -365 c37 -4 38 -5 16 -110 -21 -101 -66 -208 -125 -297 -61 -91 -211
+-235 -322 -309 -128 -85 -351 -188 -552 -255 l-180 -59 -18 34 c-19 36 -69 74
+-99 74 -22 0 -23 35 -7 177 14 132 50 266 98 368 49 105 79 148 97 141 9 -3
+14 2 14 14 0 23 17 25 74 9 31 -9 47 -7 82 6 57 22 86 63 88 123 1 49 14 72
+40 72 9 0 16 7 16 15 0 27 249 85 366 85 135 0 279 36 339 84 l30 24 5 -96 5
+-97 33 -3z m-892 -8 c68 -71 30 -170 -69 -181 -43 -5 -49 -3 -82 30 -30 30
+-35 42 -35 80 0 37 5 51 31 76 25 26 39 31 76 31 39 0 50 -5 79 -36z m-353
+-956 c23 -12 57 -67 57 -91 0 -33 -29 -82 -59 -100 -81 -48 -182 20 -167 111
+12 79 95 118 169 80z"/>
+</g>
 </svg>
