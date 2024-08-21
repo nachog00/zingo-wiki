@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-s/how-to-download-zingo/"}
+{"dg-publish":true,"permalink":"/how-to-s/how-to-download-zingo/","tags":["how-to","tutorial","download","ios","android","pc"]}
 ---
 
 Zingo is available on IOS, Android and PC.
