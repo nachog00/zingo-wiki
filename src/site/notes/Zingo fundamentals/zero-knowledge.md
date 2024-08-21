@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/zingo-fundamentals/zero-knowledge/","title":"Zero knowledge"}
 ---
 
-[[Zero-knowledge proofs\|Zero-knowledge proofs]] are a cryptographic technique that allows one party (the prover) to prove to another party (the verifier) that a statement is true, without revealing any information beyond the validity of the statement itself.  
+[[Zingo fundamentals/Zero-knowledge proofs\|Zero-knowledge proofs]] are a cryptographic technique that allows one party (the prover) to prove to another party (the verifier) that a statement is true, without revealing any information beyond the validity of the statement itself.  
 
-In the context of [[Zcash\|Zcash]], zero-knowledge proofs are used to enable private transactions. When a user sends a Zcash transaction, the transaction details (sender, recipient, amount) are encrypted and included in the blockchain. However, the network still needs to verify that the transaction is valid (i.e., the sender has enough funds, the transaction doesn't create new coins out of thin air, etc.) without revealing the transaction details.
+In the context of [[Zingo fundamentals/Zcash\|Zcash]], zero-knowledge proofs are used to enable private transactions. When a user sends a Zcash transaction, the transaction details (sender, recipient, amount) are encrypted and included in the blockchain. However, the network still needs to verify that the transaction is valid (i.e., the sender has enough funds, the transaction doesn't create new coins out of thin air, etc.) without revealing the transaction details.
 
 This is where zero-knowledge proofs come in. The sender constructs a zero-knowledge proof that demonstrates the validity of the transaction without revealing any of the private details. The network can verify this proof, ensuring the transaction is legitimate while preserving the privacy of the users involved.
 
