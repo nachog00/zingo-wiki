@@ -4,7 +4,7 @@
 
 Zero-knowledge proofs, at their core, are a fascinating intersection of mathematics and cryptography. They enable the prover to convince the verifier of the truth of a statement, without revealing any information beyond the fact that the statement is indeed true. Let's delve into the mathematical underpinnings of this powerful concept.
 
-## **Formal Definition
+## **Formal Definition**
 
 A zero-knowledge proof system for a language L consists of two probabilistic polynomial-time algorithms: a prover P and a verifier V. Given an input x, the prover aims to convince the verifier that x∈L without revealing any additional information.
 
