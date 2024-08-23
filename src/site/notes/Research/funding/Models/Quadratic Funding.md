@@ -15,4 +15,4 @@
 
 [[onchain-capital-allocation.pdf#page=32&selection=26,0,35,40|onchain-capital-allocation, page 32]]
 
-
+![Pasted image 20240823015901.png](/img/user/Pasted%20image%2020240823015901.png)
