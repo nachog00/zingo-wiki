@@ -9,8 +9,10 @@
 
 { .block-language-dataview}
 ## Organization types
-| File                                           |
-| ---------------------------------------------- |
-| [[Research/funding/Organizations/DAO\|DAO]] |
+| File                                                                                       |
+| ------------------------------------------------------------------------------------------ |
+| [[Research/funding/Organizations/DAO\|DAO]]                                             |
+| [[Research/funding/Organizations/Large Protocols\|Large Protocols]]                     |
+| [[Research/funding/Organizations/Networks & Network States\|Networks & Network States]] |
 
 { .block-language-dataview}

@@ -24,3 +24,5 @@ Zingo is a privacy-focused cryptocurrency wallet that leverages [[Zingo fundamen
 
 { .block-language-dataview}
 
+## Research
+[[Research/funding/Onchain funding\|Onchain funding]]
